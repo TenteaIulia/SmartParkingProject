@@ -1,4 +1,4 @@
-# smart-parking-project
+# Smart Parking Project
 Smart Parking is a web application for intelligent parking management, developed using Flask (Python) and MySQL.
 
 Backend:
